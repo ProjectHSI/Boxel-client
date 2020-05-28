@@ -119,6 +119,9 @@ Browsing the source [here](https://github.com/VerizonCraft/Boxel-client/blob/mas
 License
 ------------
 This repository and its code are licensed under a BSD 3-Clause license, which can be found [here](https://github.com/VerizonCraft/Boxel-client/blob/master/LICENSE.txt).
+ 
 
-
+**VERZIONCRAFT IS NO LONGER ACTIVE.**
+--------------
+VerzionCraft's code is no longer active. (Click here to see it.)[https://verzioncraft.github.io]
 
