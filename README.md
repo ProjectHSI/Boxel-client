@@ -123,5 +123,5 @@ This repository and its code are licensed under a BSD 3-Clause license, which ca
 
 **VERZIONCRAFT IS NO LONGER ACTIVE.**
 --------------
-VerzionCraft's code is no longer active. (Click here to see it.)[https://verzioncraft.github.io]
+VerzionCraft's code is no longer active. [Click here to see it.](https://verzioncraft.github.io) It's been fun - Verzion
 
